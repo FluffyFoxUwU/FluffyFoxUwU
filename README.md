@@ -1,1 +1,1 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyFoxUwU)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyFoxUwU&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
